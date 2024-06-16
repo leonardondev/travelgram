@@ -1,0 +1,13 @@
+footer {
+  height: 72px;
+  display: flex;
+  align-items: center;
+  justify-content:space-between;
+  font: var(--text-md);
+  line-height: 1.5;
+}
+
+footer a {
+  padding: 4px;
+  margin-left: 16px;
+}
